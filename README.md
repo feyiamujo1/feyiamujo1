@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Feyisayo Amujoyegbe (@feyiamujo1)
 - 👀 I’m interested in Frontend web development and android app development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently getting better at React.js
 - 💞️ I’m looking to collaborate on frontend web and android application projects
 - 📫 How to reach me - feyisayoamujoyegbe@gmail.com
