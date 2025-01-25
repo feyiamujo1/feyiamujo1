@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Feyisayo Amujoyegbe (@feyiamujo1)
-- 👀 I’m interested in Frontend Web Development and Artificial Intelligence
+- 👀 I’m interested in Web Development and Artificial Intelligence
 - 🌱 I’m currently getting better at React.js
 - 💞️ I’m looking to collaborate on projects relating to Web development and Artificial Intelligence
 - 📫 How to reach me - feyisayoamujoyegbe@gmail.com
